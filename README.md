@@ -6,4 +6,4 @@
   <img align="center" alt="HTML" height="30" width="40
 
 
-![Snake animation](https://github.com/felipeand86/felipeand86/blob/output/github-contribuition-grid-snake.svg)
+

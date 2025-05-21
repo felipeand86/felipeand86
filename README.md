@@ -5,5 +5,5 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
+![Snake animation](https://github.com/felipeand86/felipeand86/blob/output/github-contribuition-grid-snake.svg)

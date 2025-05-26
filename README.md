@@ -1,14 +1,10 @@
 ### Me segue nas redes abaixo! 
 <div> 
   
-  <a href="https://instagram.com/andfelipe_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href="https://instagram.com/andfelipe_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/felipe-andre-1565961a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeand86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeand86&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
 <div style="display: inline_block"><br>
 
 <div style="display: inline_block"><br>   
@@ -23,5 +19,11 @@
 </div>
  
 <br> 
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeand86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeand86&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+
 
 

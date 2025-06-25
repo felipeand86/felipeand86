@@ -8,7 +8,8 @@
 <div style="display: inline_block"> <br> 
 
   <p><strong>Front-end</strong></p>
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular">
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vscode">
+ <br>
  <p><strong>Back-end</strong></p>
  <img src="https://skillicons.dev/icons?i=nodejs,sql">
  

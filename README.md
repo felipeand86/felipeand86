@@ -7,7 +7,7 @@
 
 <div style="display: inline_block"> <br> 
   
- <img src="https://skillicons.dev/icons?i=js,html,css,react,angular">
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular">
 </div>
  
 <br> 

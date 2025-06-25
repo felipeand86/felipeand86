@@ -6,10 +6,11 @@
 </div>
 
 <div style="display: inline_block"> <br> 
-
-  <p><strong>Front-end</strong></p>
+<ul>
+  <li><p><strong>Front-end</strong></p>
  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vscode">
- <br>
+  </ul>
+    <br>
  <p><strong>Back-end</strong></p>
  <img src="https://skillicons.dev/icons?i=nodejs,sql">
  

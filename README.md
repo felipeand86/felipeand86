@@ -13,7 +13,7 @@
   
  <ul> 
  <li><p><strong>Back-end</strong></p>
- <img src="https://skillicons.dev/icons?i=nodejs,SQLite">
+ <img src="https://skillicons.dev/icons?i=nodejs,SQL">
  </ul>
 
  <ul>

@@ -8,7 +8,7 @@
 <div style="display: inline_block"> <br> 
 <ul>
   <li><p><strong>Front-end</strong></p>
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vscode">
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vscode,dart">
   </ul>
   
  <ul> 

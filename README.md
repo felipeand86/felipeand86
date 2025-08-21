@@ -18,7 +18,7 @@
 
  <ul>
  <li><p><strong>Desk e Mobile</strong></p> 
- <img src="https://skillicons.dev/icons?i=dart">
+ <img src="https://skillicons.dev/icons?i=dart,flutter">
 </div>
  
 <br> 

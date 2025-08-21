@@ -15,6 +15,10 @@
  <li><p><strong>Back-end</strong></p>
  <img src="https://skillicons.dev/icons?i=nodejs">
  </ul>
+
+ <ul>
+ <li><p><strong>Desk e Mobile</strong></p> 
+ <img src="https://skillicons.dev/icons?i=dart">
 </div>
  
 <br> 
